@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">:mortar_board: Graduated from Arab American University - Palestine in 2025<br>:computer: I trained at ASAL Technology in web development, especially front-end, in 2024.<br>:computer: I am currently training at Alpha Omega in web development, especially front-end.</p>
+<p align="left">:mortar_board: Graduated from Arab American University - Palestine in 03-2025<br>:computer: I trained at ASAL Technology in web development, especially front-end, in 2024.<br>:computer: I am currently training at Alpha Omega in web development, especially front-end.</p>
 
 ###
 
