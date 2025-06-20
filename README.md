@@ -15,6 +15,8 @@
   
 :computer: I trained at ASAL Technology in web development, especially front-end, in 2024.
 <br>
+https://github.com/Mohammad-Shaikh-Ibrahim/ASAL-Internship/tree/Internship
+<br>
   
 :computer: I am currently training at Alpha Omega in web development, especially front-end.
 <br> 
