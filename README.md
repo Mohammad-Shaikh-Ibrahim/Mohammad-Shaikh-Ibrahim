@@ -13,16 +13,16 @@
 <p align="left">:mortar_board: Graduated from Arab American University - Palestine in 03-2025
 <br>
   
-:computer: I trained at ASAL Technology in web development, especially front-end, in 2024.
-<br>
-https://github.com/Mohammad-Shaikh-Ibrahim/ASAL-Internship/tree/Internship
-<br>
-  
-:computer: I am currently training at Alpha Omega in web development, especially front-end.
+:computer:  I trained at at Alpha Omega in web development, especially front-end, 04/2025 - 07/2025
 <br> 
 https://github.com/Mohammad-Shaikh-Ibrahim/Alpha-Omega-Internship/tree/Projects-Tasks
 <br>
 
+:computer: I trained at ASAL Technology in web development, especially front-end, 07/2024 - 10/2024.
+<br>
+https://github.com/Mohammad-Shaikh-Ibrahim/ASAL-Internship/tree/Internship
+<br>
+  
 :books: I took several courses and participated in several trainings and competitions that you can find in this repository:
 <br>
 https://github.com/Mohammad-Shaikh-Ibrahim/My_Certificates
