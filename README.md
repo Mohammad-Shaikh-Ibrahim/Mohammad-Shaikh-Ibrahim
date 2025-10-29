@@ -12,6 +12,11 @@
 
 <p align="left">:mortar_board: Graduated from Arab American University - Palestine in 03-2025
 <br>
+
+:computer:  My Portfolio
+<br> 
+https://mohammad-shaikh-ibrahim.github.io/Portfolio/
+<br>
   
 :computer:  I trained at at Alpha Omega in web development, especially front-end, 04/2025 - 07/2025
 <br> 
